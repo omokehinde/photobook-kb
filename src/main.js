@@ -5,9 +5,9 @@ import store from './store';
 
 import './assets/tailwind.css';
 import Amplify from 'aws-amplify';
-import '@aws-amplify/ui-vue';
 
 import aws_exports from './aws-exports';
+import '@aws-amplify/ui-vue';
 
 Amplify.configure(aws_exports);
 Vue.config.productionTip = false

@@ -4,3 +4,12 @@
 2020.12.17 16:05:48 WARN  no build tool detected in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Dec 17, 2020 11:45:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTraceNotification
+2020.12.26 23:51:37 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb' for client vscode.
+2020.12.26 23:51:38 INFO  time: initialize in 0.75s
+2020.12.26 23:52:04 WARN  Build server is not auto-connectable.
+2020.12.26 23:52:04 WARN  no build tool detected in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.27 00:08:14 INFO  shutting down Metals
+2020.12.27 00:12:57 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb' for client vscode.
+2020.12.27 00:12:58 INFO  time: initialize in 1.15s
+2020.12.27 00:13:00 WARN  Build server is not auto-connectable.
+2020.12.27 00:13:00 WARN  no build tool detected in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
