@@ -13,3 +13,7 @@ INFO: Unsupported notification method: $/setTraceNotification
 2020.12.27 00:12:58 INFO  time: initialize in 1.15s
 2020.12.27 00:13:00 WARN  Build server is not auto-connectable.
 2020.12.27 00:13:00 WARN  no build tool detected in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.31 01:04:18 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb' for client vscode.
+2020.12.31 01:04:20 INFO  time: initialize in 1.81s
+2020.12.31 01:04:26 WARN  Build server is not auto-connectable.
+2020.12.31 01:04:26 WARN  no build tool detected in workspace 'C:\Users\omokehinde\Documents\NodeProjects\vue\photobook-kb'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
